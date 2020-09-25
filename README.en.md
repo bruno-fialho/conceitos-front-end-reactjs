@@ -35,25 +35,25 @@ The application has two routes:
 
 <sup>**</sup>Automatically generated name
 
-## 💿 Required packages
+## 💿 Installed packages
 
-The following is a list of the packages needed for the application (Using [yarn](https://yarnpkg.com/)):
+The following is a list of installed packages:
 
 ### On the Frontend
 
-- yarn add [react react-dom](https://www.npmjs.com/package/react-dom)
-- yarn add [@babel/core](https://www.npmjs.com/package/@babel/core) [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env) [@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react) [webpack webpack-cli](https://webpack.js.org/guides/installation/)
-- yarn add [@babel/cli](https://babeljs.io/docs/en/babel-cli/)
-- yarn add [babel-loader](https://github.com/babel/babel-loader)
-- yarn add [webpack-dev-server](https://github.com/webpack/webpack-dev-server) -D
-- yarn add [style-loader](https://www.npmjs.com/package/style-loader) [css-loader](https://www.npmjs.com/package/css-loader) -D
-- yarn add [file-loader](https://webpack.js.org/loaders/file-loader/)
-- yarn add [axios](https://www.npmjs.com/package/axios)
-- yarn add [@babel/plugin-transform-runtime](https://babeljs.io/docs/en/babel-plugin-transform-runtime)
+- [react react-dom](https://www.npmjs.com/package/react-dom)
+- [@babel/core](https://www.npmjs.com/package/@babel/core) [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env) [@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react) [webpack webpack-cli](https://webpack.js.org/guides/installation/)
+- [@babel/cli](https://babeljs.io/docs/en/babel-cli/)
+- [babel-loader](https://github.com/babel/babel-loader)
+- [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
+- [style-loader](https://www.npmjs.com/package/style-loader) [css-loader](https://www.npmjs.com/package/css-loader)
+- [file-loader](https://webpack.js.org/loaders/file-loader/)
+- [axios](https://www.npmjs.com/package/axios)
+- [@babel/plugin-transform-runtime](https://babeljs.io/docs/en/babel-plugin-transform-runtime)
 
 ### On the Backend
 
-- yarn add [cors](https://www.npmjs.com/package/cors)
+- [cors](https://www.npmjs.com/package/cors)
 
 
 ## 📝 Licence
