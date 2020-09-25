@@ -19,17 +19,21 @@
 
 A simple application with ReactJS!
 
-This is an application to store projects in portfolio, which will allow you to create and list projects.
+This is an application to storage projects of your portfolio, that allows you to create and list projects.
+
+`Important`: This application requires the [backend](https://github.com/bruno-fialho/conceitos-back-end-nodejs).
 
 ### Application Routes
 
 The application has two routes:
 
-- **`List the projects from API`**: Should be able to create a list with the **title** field of all the repositories that are registered in your API..
+- **`List the projects from API`**: Should be able to create a list with the **title** field of all the projects that are registered in your API..
 
-- **`Adding a project to your API`**: Should be able to add a new item to the API via a button with the text **Adicionar Projeto** and, after creating, should be able to display the name<sup>*</sup>.
+- **`Adding a project to your API`**: Should be able to add a new item to the API via a button with the text **Adicionar Projeto**<sup>*</sup> and, after creating, should be able to display the name<sup>**</sup>.
 
-<sup>*</sup>Automatically generated name
+<sup>*</sup>Adicionar Projeto (pt-br) = Add Project (en)
+
+<sup>**</sup>Automatically generated name
 
 ## 💿 Required packages
 

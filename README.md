@@ -19,7 +19,9 @@
 
 Uma simples aplicação com ReactJS!
 
-Essa é uma aplicação para armazenar projetos em um portfólio, que irá permitir a criação e listagem dos projetos.
+Essa é uma aplicação para armazenar projetos do seu portfólio, que permite a criação e listagem dos projetos.
+
+`Importante`: Essa aplicação requer o [backend](https://github.com/bruno-fialho/conceitos-back-end-nodejs).
 
 ### Rotas da aplicação
 
@@ -27,7 +29,7 @@ A aplicação possui duas rotas:
 
 - **`Listar os projetos da sua API`**: Deve ser capaz de criar uma lista com o campo **title** de todos os projetos que estão cadastrados na sua API.
 
-- **`Adicionar um projeto da API`**: Deve ser capaz de adicionar um novo item na API através de um botão com o texto **Adicionar Projeto** e, após a criação, deve ser capaz de exibir o nome<sup>*</sup>. 
+- **`Adicionar um projeto a sua API`**: Deve ser capaz de adicionar um novo item na API através de um botão com o texto **Adicionar Projeto** e, após a criação, deve ser capaz de exibir o nome<sup>*</sup>. 
 
 <sup>*</sup>Nome gerado automaticamente
 
