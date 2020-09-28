@@ -10,12 +10,13 @@
 </h3>
 
 <p align="center">
-  <a href="#🚀-sobre-a-aplicação">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💿-pacotes-requiridos">Pacotes requiridos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#📝-licença">Licença</a>
+  <a href="#rocket-sobre-a-aplicação">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cd-pacotes-instalados">Pacotes instalados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-## 🚀 Sobre a aplicação
+
+## :rocket: Sobre a aplicação
 
 Uma simples aplicação com ReactJS!
 
@@ -33,7 +34,7 @@ A aplicação possui duas rotas:
 
 <sup>*</sup>Nome gerado automaticamente
 
-## 💿 Pacotes instalados
+## :cd: Pacotes instalados
 
 A seguir segue uma lista dos pacotes instalados:
 
@@ -54,6 +55,6 @@ A seguir segue uma lista dos pacotes instalados:
 - [cors](https://www.npmjs.com/package/cors)
 
 
-## 📝 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
